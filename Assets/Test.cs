@@ -36,7 +36,6 @@ public class Boss
             Debug.Log("MPが足りないため、魔法が使えない。");
         }
     }
-
 }
 
 public class Test : MonoBehaviour
